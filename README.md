@@ -1,3 +1,5 @@
+Ourstoor-- An online store for Nigerians.
+
 This is a repository for an online store in Nigerian local currencies and most sort after products.
 # Demo
 ![OURSTOOR1](https://github.com/qudusyusuf720/ourstoor/assets/140284271/34a6648e-9a28-47ed-a587-52a4e818eab4)
