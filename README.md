@@ -1,4 +1,4 @@
-Ourstoor-- An online store for Nigerians.
+#Ourstoor - An online store for Nigerians.
 
 This is a repository for an online store in Nigerian local currencies and most sort after products.
 # Demo
